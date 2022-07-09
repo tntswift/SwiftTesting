@@ -1,0 +1,4 @@
+source 'https://rubygems.org'
+     gem 'selenium-webdriver', '~> 4.3'
+     gem 'rspec', '~> 3.11'
+     gem 'ffi', '~> 1.15', '>= 1.15.5'
